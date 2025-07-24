@@ -2,7 +2,7 @@
 
 A simple console-based To-Do List application written in C++. It allows users to add, view, edit, and delete tasks from a list.
 
-Features
+## Features
 
 - ✅ Add new tasks
 - ❌ Delete existing tasks
@@ -10,13 +10,13 @@ Features
 - 📋 Display all tasks
 - 💾 Save/load tasks from a file
 
-Technologies Used
+## Technologies Used
 
 - C++17
 - Standard Template Library (STL)
 - Compilable using `g++` or `CMake`
 
-## 🧠 Planned Features
+## Planned Features
 
 - [ ] Drag-and-drop reordering of goals
 - [ ] Mark goals as completed
@@ -25,7 +25,7 @@ Technologies Used
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Kuz03d**  
 📎 [GitHub](https://github.com/Kuz03d)  
