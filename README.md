@@ -16,3 +16,18 @@ Technologies Used
 - Standard Template Library (STL)
 - Compilable using `g++` or `CMake`
 
+## 🧠 Planned Features
+
+- [ ] Drag-and-drop reordering of goals
+- [ ] Mark goals as completed
+- [ ] Dark/light mode toggle
+- [ ] Export/import to file
+
+---
+
+## 👨‍💻 Author
+
+**Kuz03d**  
+📎 [GitHub](https://github.com/Kuz03d)  
+🎨 [ArtStation](https://www.artstation.com/kuzu3d)  
+💼 [LinkedIn](https://www.linkedin.com/in/kuzo3d)
