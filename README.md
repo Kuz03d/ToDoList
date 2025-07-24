@@ -1,6 +1,7 @@
 # ToDoList (C++)
 
 A simple console-based To-Do List application written in C++. It allows users to add, view, edit, and delete tasks from a list.
+<img width="383" height="761" alt="image" src="https://github.com/user-attachments/assets/7ede4fad-a5cd-433f-b669-ead52dc62a47" />
 
 ## Features
 
@@ -9,6 +10,7 @@ A simple console-based To-Do List application written in C++. It allows users to
 - 📝 Edit task descriptions
 - 📋 Display all tasks
 - 💾 Save/load tasks from a file
+<img width="383" height="787" alt="image" src="https://github.com/user-attachments/assets/2a245484-b4fa-48ea-aacb-806c78257444" />
 
 ## Technologies Used
 
